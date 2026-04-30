@@ -1,0 +1,6 @@
+Fixes critical crash on app startup.
+
+- Added null checks
+- Stabilized initialization flow
+
+Needs additional testing.
